@@ -1,0 +1,500 @@
+[
+  {
+    "title": "Manufacturing",
+    "icon": "🏭",
+    "route": "/jobs",
+    "accent": "#4ea8ff"
+  },
+  {
+    "title": "Electrical",
+    "icon": "⚡",
+    "route": "/jobs",
+    "accent": "#e7b642"
+  },
+  {
+    "title": "Technical / Manufacturing",
+    "icon": "🛠️",
+    "route": "/jobs",
+    "accent": "#2ea7b9"
+  },
+  {
+    "title": "Engineering",
+    "icon": "⚙️",
+    "route": "/jobs",
+    "accent": "#f6a65f"
+  },
+  {
+    "title": "Sales / Marketing",
+    "icon": "📈",
+    "route": "/jobs",
+    "accent": "#ffb036"
+  },
+  {
+    "title": "Sales Executive",
+    "icon": "🧑‍💼",
+    "route": "/jobs",
+    "accent": "#4ea8ff"
+  },
+  {
+    "title": "Retail / Store Executive",
+    "icon": "🛍️",
+    "route": "/jobs",
+    "accent": "#51b7d2"
+  },
+  {
+    "title": "Mechanic",
+    "icon": "🛠️",
+    "route": "/jobs",
+    "accent": "#2ea7b9"
+  },
+  {
+    "title": "Accountant",
+    "icon": "📊",
+    "route": "/jobs",
+    "accent": "#5cb1e8"
+  },
+  {
+    "title": "BPO / Customer care",
+    "icon": "📞",
+    "route": "/jobs",
+    "accent": "#27b3d4"
+  },
+  {
+    "title": "Customer Service / Tech Support",
+    "icon": "🎧",
+    "route": "/jobs",
+    "accent": "#3795d1"
+  },
+  {
+    "title": "Tech Support",
+    "icon": "🧰",
+    "route": "/jobs",
+    "accent": "#3da5dc"
+  },
+  {
+    "title": "Data Entry / Back Office",
+    "icon": "💻",
+    "route": "/jobs",
+    "accent": "#7ab5ef"
+  },
+  {
+    "title": "Management Trainee",
+    "icon": "👨‍💻",
+    "route": "/jobs",
+    "accent": "#1a7dc7"
+  },
+  {
+    "title": "IT Hardware Engineer",
+    "icon": "🖥️",
+    "route": "/jobs",
+    "accent": "#3da5dc"
+  },
+  {
+    "title": "IT Software-Engineer",
+    "icon": "💡",
+    "route": "/jobs",
+    "accent": "#6bb0ff"
+  },
+  {
+    "title": "IT - Mobile Developer",
+    "icon": "📱",
+    "route": "/jobs",
+    "accent": "#5c8de8"
+  },
+  {
+    "title": "IT Software-QA/Tester",
+    "icon": "🧪",
+    "route": "/jobs",
+    "accent": "#8b83e8"
+  },
+  {
+    "title": "Admin",
+    "icon": "📋",
+    "route": "/jobs",
+    "accent": "#78909c"
+  },
+  {
+    "title": "Agriculture and Dairy",
+    "icon": "🌾",
+    "route": "/jobs",
+    "accent": "#7eaa45"
+  },
+  {
+    "title": "Architect",
+    "icon": "🏛️",
+    "route": "/jobs",
+    "accent": "#a1887f"
+  },
+  {
+    "title": "Bartender",
+    "icon": "🍹",
+    "route": "/jobs",
+    "accent": "#e5a04b"
+  },
+  {
+    "title": "Beauticians / Spa",
+    "icon": "💅",
+    "route": "/jobs",
+    "accent": "#e78ab5"
+  },
+  {
+    "title": "Bouncer",
+    "icon": "🛡️",
+    "route": "/jobs",
+    "accent": "#718096"
+  },
+  {
+    "title": "Caretaker / Nanny",
+    "icon": "🧸",
+    "route": "/jobs",
+    "accent": "#e6a1b5"
+  },
+  {
+    "title": "Carpenter",
+    "icon": "🪚",
+    "route": "/jobs",
+    "accent": "#b88758"
+  },
+  {
+    "title": "Cashier",
+    "icon": "💵",
+    "route": "/jobs",
+    "accent": "#45a879"
+  },
+  {
+    "title": "Cleaner / Washer",
+    "icon": "🧹",
+    "route": "/jobs",
+    "accent": "#70b7cc"
+  },
+  {
+    "title": "Construction / Laborer",
+    "icon": "🏗️",
+    "route": "/jobs",
+    "accent": "#d9a441"
+  },
+  {
+    "title": "Content Writer",
+    "icon": "✍️",
+    "route": "/jobs",
+    "accent": "#8b83e8"
+  },
+  {
+    "title": "Counsellor",
+    "icon": "🗣️",
+    "route": "/jobs",
+    "accent": "#5bb5a2"
+  },
+  {
+    "title": "Cook / Chef",
+    "icon": "👨‍🍳",
+    "route": "/jobs",
+    "accent": "#ef9560"
+  },
+  {
+    "title": "Data Analytics",
+    "icon": "📉",
+    "route": "/jobs",
+    "accent": "#5289db"
+  },
+  {
+    "title": "Design / Animation",
+    "icon": "🎨",
+    "route": "/jobs",
+    "accent": "#b18be8"
+  },
+  {
+    "title": "Delivery",
+    "icon": "🛵",
+    "route": "/jobs",
+    "accent": "#45a879"
+  },
+  {
+    "title": "Digital Marketing / SEO",
+    "icon": "📣",
+    "route": "/jobs",
+    "accent": "#f0a15c"
+  },
+  {
+    "title": "Draughtsman / Draftsman",
+    "icon": "📐",
+    "route": "/jobs",
+    "accent": "#7b91c9"
+  },
+  {
+    "title": "Driver",
+    "icon": "🚗",
+    "route": "/jobs",
+    "accent": "#5c9bd6"
+  },
+  {
+    "title": "Doctor / Physician",
+    "icon": "🩺",
+    "route": "/jobs",
+    "accent": "#e57373"
+  },
+  {
+    "title": "Electrician",
+    "icon": "⚡",
+    "route": "/jobs",
+    "accent": "#e7b642"
+  },
+  {
+    "title": "Engraver",
+    "icon": "🔩",
+    "route": "/jobs",
+    "accent": "#8c9aa8"
+  },
+  {
+    "title": "Event Planner",
+    "icon": "🎉",
+    "route": "/jobs",
+    "accent": "#e78ab5"
+  },
+  {
+    "title": "Fire Fighter",
+    "icon": "🚒",
+    "route": "/jobs",
+    "accent": "#e66b54"
+  },
+  {
+    "title": "Fitter",
+    "icon": "🔧",
+    "route": "/jobs",
+    "accent": "#718096"
+  },
+  {
+    "title": "Gardener (Mali)",
+    "icon": "🪴",
+    "route": "/jobs",
+    "accent": "#7eaa45"
+  },
+  {
+    "title": "Ground Staff",
+    "icon": "🛫",
+    "route": "/jobs",
+    "accent": "#5c9bd6"
+  },
+  {
+    "title": "Hospitality Executives",
+    "icon": "🏨",
+    "route": "/jobs",
+    "accent": "#b18be8"
+  },
+  {
+    "title": "Housekeeping",
+    "icon": "🧽",
+    "route": "/jobs",
+    "accent": "#70b7cc"
+  },
+  {
+    "title": "HR",
+    "icon": "🤝",
+    "route": "/jobs",
+    "accent": "#e78ab5"
+  },
+  {
+    "title": "Insurance Consultant",
+    "icon": "🛡️",
+    "route": "/jobs",
+    "accent": "#5289db"
+  },
+  {
+    "title": "Lab Technician",
+    "icon": "🔬",
+    "route": "/jobs",
+    "accent": "#5bb5a2"
+  },
+  {
+    "title": "Language Translator",
+    "icon": "🌐",
+    "route": "/jobs",
+    "accent": "#8b83e8"
+  },
+  {
+    "title": "Legal",
+    "icon": "⚖️",
+    "route": "/jobs",
+    "accent": "#78909c"
+  },
+  {
+    "title": "Librarian",
+    "icon": "📚",
+    "route": "/jobs",
+    "accent": "#b88758"
+  },
+  {
+    "title": "Media / Journalism",
+    "icon": "🎙️",
+    "route": "/jobs",
+    "accent": "#5c9bd6"
+  },
+  {
+    "title": "MIS Executive",
+    "icon": "📊",
+    "route": "/jobs",
+    "accent": "#5289db"
+  },
+  {
+    "title": "Moulder",
+    "icon": "🏭",
+    "route": "/jobs",
+    "accent": "#8c9aa8"
+  },
+  {
+    "title": "Nurse",
+    "icon": "👩‍⚕️",
+    "route": "/jobs",
+    "accent": "#e57373"
+  },
+  {
+    "title": "Nutritionist / Dietician",
+    "icon": "🥗",
+    "route": "/jobs",
+    "accent": "#7eaa45"
+  },
+  {
+    "title": "Operations",
+    "icon": "⚙️",
+    "route": "/jobs",
+    "accent": "#5c9bd6"
+  },
+  {
+    "title": "Office Assistant / Helper",
+    "icon": "🗂️",
+    "route": "/jobs",
+    "accent": "#78909c"
+  },
+  {
+    "title": "Operator / Machinist",
+    "icon": "🏭",
+    "route": "/jobs",
+    "accent": "#8c9aa8"
+  },
+  {
+    "title": "Packager",
+    "icon": "📦",
+    "route": "/jobs",
+    "accent": "#b88758"
+  },
+  {
+    "title": "Painter",
+    "icon": "🖌️",
+    "route": "/jobs",
+    "accent": "#b18be8"
+  },
+  {
+    "title": "Pharmacist / Medical Rep",
+    "icon": "💊",
+    "route": "/jobs",
+    "accent": "#5bb5a2"
+  },
+  {
+    "title": "Photographer / Videographer",
+    "icon": "📸",
+    "route": "/jobs",
+    "accent": "#8b83e8"
+  },
+  {
+    "title": "Physiotherapist",
+    "icon": "🧑‍⚕️",
+    "route": "/jobs",
+    "accent": "#e57373"
+  },
+  {
+    "title": "Plumber",
+    "icon": "🚰",
+    "route": "/jobs",
+    "accent": "#5c9bd6"
+  },
+  {
+    "title": "Research / JRF / SRF",
+    "icon": "🔍",
+    "route": "/jobs",
+    "accent": "#5289db"
+  },
+  {
+    "title": "Receptionist / Front Office",
+    "icon": "🛎️",
+    "route": "/jobs",
+    "accent": "#e5a04b"
+  },
+  {
+    "title": "Rigger",
+    "icon": "🪢",
+    "route": "/jobs",
+    "accent": "#8c9aa8"
+  },
+  {
+    "title": "Security / Guards",
+    "icon": "👮",
+    "route": "/jobs",
+    "accent": "#718096"
+  },
+  {
+    "title": "Sports Trainer",
+    "icon": "🏋️",
+    "route": "/jobs",
+    "accent": "#45a879"
+  },
+  {
+    "title": "Tailor / Dress Designer",
+    "icon": "🧵",
+    "route": "/jobs",
+    "accent": "#e78ab5"
+  },
+  {
+    "title": "Teacher",
+    "icon": "👩‍🏫",
+    "route": "/jobs",
+    "accent": "#f0a15c"
+  },
+  {
+    "title": "Tool & Die Maker",
+    "icon": "🔨",
+    "route": "/jobs",
+    "accent": "#b88758"
+  },
+  {
+    "title": "Tourist Guide",
+    "icon": "🗺️",
+    "route": "/jobs",
+    "accent": "#5bb5a2"
+  },
+  {
+    "title": "Trainer",
+    "icon": "🎯",
+    "route": "/jobs",
+    "accent": "#5289db"
+  },
+  {
+    "title": "Waiter / Steward",
+    "icon": "🍽️",
+    "route": "/jobs",
+    "accent": "#ef9560"
+  },
+  {
+    "title": "Ward Boy",
+    "icon": "🏥",
+    "route": "/jobs",
+    "accent": "#70b7cc"
+  },
+  {
+    "title": "Warehouse Executive",
+    "icon": "🏬",
+    "route": "/jobs",
+    "accent": "#5c9bd6"
+  },
+  {
+    "title": "Welder",
+    "icon": "🧑‍🏭",
+    "route": "/jobs",
+    "accent": "#e5a04b"
+  },
+  {
+    "title": "Others",
+    "icon": "💼",
+    "route": "/jobs",
+    "accent": "#78909c"
+  }
+]

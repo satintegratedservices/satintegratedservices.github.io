@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Manufacturing",
+    "icon": "🏭",
+    "route": "/industries/manufacturing"
+  },
+  {
+    "name": "Healthcare",
+    "icon": "🏥",
+    "route": "/industries/healthcare"
+  },
+  {
+    "name": "Retail & Malls",
+    "icon": "🛒",
+    "route": "/industries/retail-malls"
+  },
+  {
+    "name": "IT & Technology",
+    "icon": "💻",
+    "route": "/industries/it-technology"
+  },
+  {
+    "name": "Logistics",
+    "icon": "🚚",
+    "route": "/industries/logistics"
+  },
+  {
+    "name": "Infrastructure",
+    "icon": "🏗️",
+    "route": "/industries/infrastructure"
+  },
+  {
+    "name": "Commercial",
+    "icon": "🏢",
+    "route": "/industries/commercial"
+  },
+  {
+    "name": "Renewable Energy",
+    "icon": "🌿",
+    "route": "/industries/renewable-energy"
+  },
+  {
+    "name": "Data Centers",
+    "icon": "🖥️",
+    "route": "/industries/data-centers"
+  }
+]
